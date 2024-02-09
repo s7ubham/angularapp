@@ -1,0 +1,2 @@
+empid,empname,age,dob,email,nri,photo,managerid,deptid
+10,'Subham',23,'1979-02-21','Allan21@gmail.com',0,'Allan.jpg',1,1
